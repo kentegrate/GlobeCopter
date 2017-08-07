@@ -7801,9 +7801,9 @@ Source: AVX .. aphvc.pdf</description>
 <label x="314.96" y="177.8" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="SERVO_CON" gate="G$1" pin="4"/>
-<wire x1="347.98" y1="165.1" x2="342.9" y2="165.1" width="0.1524" layer="91"/>
-<label x="342.9" y="165.1" size="1.016" layer="95" rot="R180" xref="yes"/>
+<pinref part="SERVO_CON" gate="G$1" pin="19"/>
+<wire x1="347.98" y1="152.4" x2="342.9" y2="152.4" width="0.1524" layer="91"/>
+<label x="342.9" y="152.4" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="PWM2_CON" class="0">
@@ -7813,9 +7813,9 @@ Source: AVX .. aphvc.pdf</description>
 <label x="314.96" y="170.18" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="SERVO_CON" gate="G$1" pin="7"/>
-<wire x1="347.98" y1="162.56" x2="342.9" y2="162.56" width="0.1524" layer="91"/>
-<label x="342.9" y="162.56" size="1.016" layer="95" rot="R180" xref="yes"/>
+<pinref part="SERVO_CON" gate="G$1" pin="16"/>
+<wire x1="347.98" y1="154.94" x2="342.9" y2="154.94" width="0.1524" layer="91"/>
+<label x="342.9" y="154.94" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="PWM3_CON" class="0">
@@ -7825,9 +7825,9 @@ Source: AVX .. aphvc.pdf</description>
 <label x="314.96" y="162.56" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="SERVO_CON" gate="G$1" pin="10"/>
-<wire x1="347.98" y1="160.02" x2="342.9" y2="160.02" width="0.1524" layer="91"/>
-<label x="342.9" y="160.02" size="1.016" layer="95" rot="R180" xref="yes"/>
+<pinref part="SERVO_CON" gate="G$1" pin="13"/>
+<wire x1="347.98" y1="157.48" x2="342.9" y2="157.48" width="0.1524" layer="91"/>
+<label x="342.9" y="157.48" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="PWM4_CON" class="0">
@@ -7837,9 +7837,9 @@ Source: AVX .. aphvc.pdf</description>
 <label x="314.96" y="154.94" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="SERVO_CON" gate="G$1" pin="13"/>
-<wire x1="347.98" y1="157.48" x2="342.9" y2="157.48" width="0.1524" layer="91"/>
-<label x="342.9" y="157.48" size="1.016" layer="95" rot="R180" xref="yes"/>
+<pinref part="SERVO_CON" gate="G$1" pin="10"/>
+<wire x1="347.98" y1="160.02" x2="342.9" y2="160.02" width="0.1524" layer="91"/>
+<label x="342.9" y="160.02" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="PWM5_CON" class="0">
@@ -7849,9 +7849,9 @@ Source: AVX .. aphvc.pdf</description>
 <label x="314.96" y="147.32" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="SERVO_CON" gate="G$1" pin="16"/>
-<wire x1="347.98" y1="154.94" x2="342.9" y2="154.94" width="0.1524" layer="91"/>
-<label x="342.9" y="154.94" size="1.016" layer="95" rot="R180" xref="yes"/>
+<pinref part="SERVO_CON" gate="G$1" pin="7"/>
+<wire x1="347.98" y1="162.56" x2="342.9" y2="162.56" width="0.1524" layer="91"/>
+<label x="342.9" y="162.56" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="PWM6_CON" class="0">
@@ -7861,9 +7861,9 @@ Source: AVX .. aphvc.pdf</description>
 <label x="314.96" y="139.7" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="SERVO_CON" gate="G$1" pin="19"/>
-<wire x1="347.98" y1="152.4" x2="342.9" y2="152.4" width="0.1524" layer="91"/>
-<label x="342.9" y="152.4" size="1.016" layer="95" rot="R180" xref="yes"/>
+<pinref part="SERVO_CON" gate="G$1" pin="4"/>
+<wire x1="347.98" y1="165.1" x2="342.9" y2="165.1" width="0.1524" layer="91"/>
+<label x="342.9" y="165.1" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="PWM7_CON" class="0">
@@ -7873,9 +7873,9 @@ Source: AVX .. aphvc.pdf</description>
 <label x="314.96" y="132.08" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="SERVO_CON" gate="G$1" pin="22"/>
-<wire x1="347.98" y1="149.86" x2="342.9" y2="149.86" width="0.1524" layer="91"/>
-<label x="342.9" y="149.86" size="1.016" layer="95" rot="R180" xref="yes"/>
+<pinref part="SERVO_CON" gate="G$1" pin="1"/>
+<wire x1="347.98" y1="167.64" x2="342.9" y2="167.64" width="0.1524" layer="91"/>
+<label x="342.9" y="167.64" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="PWM0_CON" class="0">
@@ -7885,9 +7885,9 @@ Source: AVX .. aphvc.pdf</description>
 <label x="314.96" y="185.42" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="SERVO_CON" gate="G$1" pin="1"/>
-<wire x1="347.98" y1="167.64" x2="342.9" y2="167.64" width="0.1524" layer="91"/>
-<label x="342.9" y="167.64" size="1.016" layer="95" rot="R180" xref="yes"/>
+<pinref part="SERVO_CON" gate="G$1" pin="22"/>
+<wire x1="347.98" y1="149.86" x2="342.9" y2="149.86" width="0.1524" layer="91"/>
+<label x="342.9" y="149.86" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="5V0" class="0">

@@ -130,6 +130,9 @@ C_INCLUDES =  \
 
 
 # compile gcc flags
+
+WARNFLAGS = -Wall -Wextra -pedantic -Werror=implicit-function-declaration -Wno-unused-parameter
+
 ASFLAGS = $(MCU) $(AS_DEFS) $(AS_INCLUDES) $(OPT) -Wall -fdata-sections -ffunction-sections
 
 CFLAGS = $(MCU) $(C_DEFS) $(C_INCLUDES) $(OPT) -Wall -fdata-sections -ffunction-sections

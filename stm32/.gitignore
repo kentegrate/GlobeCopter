@@ -2,3 +2,4 @@
 .project
 .settings
 build
+stm32*.cfg

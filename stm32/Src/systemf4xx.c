@@ -1,0 +1,1 @@
+typedef int this_file_is_required_by_generated_makefile;
